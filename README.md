@@ -1,3 +1,3 @@
 # Exchange Rate Calculator
 
-JavaScript Project
+HTML, CSS and JavaScript
